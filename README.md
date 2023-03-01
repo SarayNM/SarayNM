@@ -85,5 +85,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraynm&count_private=true&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraynm&layout=compact)](https://github.com/saraynm/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SarayNM)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=saraynm=&theme=discord-old-blurple)
 
